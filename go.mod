@@ -1,3 +1,3 @@
-module github.com/batrain-pro/go-openai
+module github.com/sashabaranov/go-openai
 
 go 1.18
