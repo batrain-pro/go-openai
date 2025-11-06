@@ -38,6 +38,8 @@ const (
 	AdaEmbeddingV2  EmbeddingModel = "text-embedding-ada-002"
 	SmallEmbedding3 EmbeddingModel = "text-embedding-3-small"
 	LargeEmbedding3 EmbeddingModel = "text-embedding-3-large"
+	TextEmbeddingV3 EmbeddingModel = "text-embedding-v3"
+	TextEmbeddingV4 EmbeddingModel = "text-embedding-v4"
 )
 
 // Embedding is a special format of data representation that can be easily utilized by machine
